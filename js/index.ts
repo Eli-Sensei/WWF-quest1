@@ -29,7 +29,6 @@ function insertMember() {
         // checking by name if new member already exist
         if(membersList){
             for(const member of membersList){
-                console.log(member.innerHTML.split('. ')[1].trim());
                 
                 let name: string = member.innerHTML.split('. ')[1].trim();
 

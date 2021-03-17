@@ -20,7 +20,6 @@ function insertMember() {
         if (membersList) {
             for (var _i = 0, membersList_1 = membersList; _i < membersList_1.length; _i++) {
                 var member = membersList_1[_i];
-                console.log(member.innerHTML.split('. ')[1].trim());
                 var name_1 = member.innerHTML.split('. ')[1].trim();
                 if (name_1 && name_1 == nameMember) {
                     if ($status) {
