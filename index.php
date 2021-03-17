@@ -25,14 +25,13 @@
             <label for="name">Nom de l&apos;Argonaute</label>
             <input id="name" name="name" type="text" placeholder="Charalampos" />
             <button type="submit" id="sub">Envoyer</button>
+            <p id="status"></p>
         </form>
     
         <!-- Member list -->
         <h2>Membres de l'équipage</h2>
         <section class="member-list">
-            <div class="member-item">Eleftheria</div>
-            <div class="member-item">Gennadios</div>
-            <div class="member-item">Lysimachos</div>
+            
         </section>
     </main>
 

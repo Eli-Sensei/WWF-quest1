@@ -52,6 +52,10 @@ label {
     text-align: center;
 }
 
+#status{
+    margin: 5px auto;
+}
+
 footer {
   margin-top: 2em;
   text-align: center;
