@@ -39,6 +39,6 @@
         <p>Réalisé par Jason en Anthestérion de l'an 515 avant JC</p>
     </footer>
 
-    <script src="./js/index.js"></script>
+    <script src="./js/index.js" defer></script>
 </body>
 </html>
